@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: hng_stage_0
+    env: node
+    buildCommand: npm install && npm run build
+    startCommand: npm start

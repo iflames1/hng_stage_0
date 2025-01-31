@@ -10,8 +10,8 @@ A simple API that returns basic information for HNG internship.
 
 ```json
 {
-  "email": "your-email@example.com",
-  "current_datetime": "2025-01-30T09:30:00Z",
-  "github_url": "https://github.com/yourusername/hng-stage0-api"
+  "email":"isaacomenuche@gmail.com",
+  "current_datetime":"2025-01-31T01:16:30.335Z",
+  "github_url":"<https://github.com/iflames1/hng_stage_0>"
 }
 ```
